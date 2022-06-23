@@ -1,7 +1,7 @@
 {
-  "name": "Sexto desafío backend Coderhouse: Websockets",
+  "name": "websockets",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sexto desafío backend Coderhouse: Websockets",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
