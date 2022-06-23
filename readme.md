@@ -17,5 +17,5 @@ Añadiremos al proyecto un canal de chat entre los  clientes y el servidor.
  - Los mensajes  deben  persistir  en el servidor  en un archivo (ver  segundo  entregable).
 
 **Notas:** 
-- Utilizar npm install para descargar las dependencias.
-- Usar node src/server.js para ejecutar el proyecto
+- Utilizar *npm install* para descargar las dependencias.
+- Usar *node src/server.js* para ejecutar el proyecto
